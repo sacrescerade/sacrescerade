@@ -1,6 +1,8 @@
-_16+ / 18+_
-      mostly offtab so w2i
-      sp8, leo sun / scor moon / sag rising
+
+
+**16+ / 18+**
+mostly offtab so w2i
+sp8, leo sun / scor moon / sag rising
 
 
 <img width="200" height="200" alt="a31453cf4efb1813313fc9e79a16cfee" src="https://github.com/user-attachments/assets/252530ef-56b7-437f-9f1c-f28f10849e34" />
