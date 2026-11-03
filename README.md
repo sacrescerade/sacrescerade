@@ -1,4 +1,4 @@
-      _16+ / 18+_
+_16+ / 18+_
       mostly offtab so w2i
       sp8, leo sun / scor moon / sag rising
 
