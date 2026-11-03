@@ -1,6 +1,3 @@
-
-eng/ua/sk/ru
-
 **16+ / 18+**
     mostly offtab so w2i
     
