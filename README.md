@@ -1,5 +1,5 @@
 <p align="center"> 
-16+ / 18+
+<h2 align="center">**16+ / 18+**</h2>
 </br> mostly offtab so w2i
 </p>
 <p align="center"> 
