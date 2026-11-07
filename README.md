@@ -5,7 +5,7 @@
 <img width="101" height="57" alt="davemerr" src="https://github.com/user-attachments/assets/eb8ae778-c159-465a-bee1-4456ba0a6d99" />
 <img width="99" height="56" alt="queen miku" src="https://github.com/user-attachments/assets/adadcc91-a6c6-4e93-afad-7e5daf07ea34" />
 <img width="88" height="31" alt="animeland" src="https://github.com/user-attachments/assets/47aa9a97-b918-4182-9d1d-32f92374a72c" />
-<img width="100" height="100" alt="A4PNHZIZ43H4XHYJ5NM7O62HQCMRC2XT" src="https://github.com/user-attachments/assets/aa5b66ff-8bc7-41e8-9f19-676823ca1ed7" />
+<img width="50" height="60" alt="A4PNHZIZ43H4XHYJ5NM7O62HQCMRC2XT" src="https://github.com/user-attachments/assets/aa5b66ff-8bc7-41e8-9f19-676823ca1ed7" />
 
 </br>
 </p>
