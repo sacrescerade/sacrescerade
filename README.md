@@ -2,8 +2,7 @@
 <h2 align="center"></h2>
 <p align="center"> 
 </br>
-<p align="center">
-  <a href="https://open.spotify.com/track/5BpGsAv2PU45rqVOT9nv30?si=4c9e2ab1c58649de">fuck</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tsrsknvrrpwy44en3ude4rubni&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
 </p>
 <p align="center"> 
