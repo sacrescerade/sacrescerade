@@ -3,7 +3,7 @@
 <p align="center"> 
 <img width="99" height="57" alt="davekat" src="https://github.com/user-attachments/assets/138f2a69-6434-466f-b780-015ebe117c7d" />
 <img width="101" height="57" alt="davemerr" src="https://github.com/user-attachments/assets/eb8ae778-c159-465a-bee1-4456ba0a6d99" />
-<img width="99" height="56" alt="queen miku" src="https://github.com/user-attachments/assets/adadcc91-a6c6-4e93-afad-7e5daf07ea34" />
+<img width="99" height="56" alt="tumblr_inline_pe6lw1tkVl1v11djx_1280" src="https://github.com/user-attachments/assets/da86b044-34d7-40ba-b4e3-5bbf4a3f0f32" />
 <img width="88" height="31" alt="animeland" src="https://github.com/user-attachments/assets/47aa9a97-b918-4182-9d1d-32f92374a72c" />
 </br>
 </p>
