@@ -2,7 +2,11 @@
 <h2 align="center"></h2>
 <p align="center"> 
 </br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tsrsknvrrpwy44en3ude4rubni&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsrsknvrrpwy44en3ude4rubni&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 </p>
 </p>
 <p align="center"> 
