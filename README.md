@@ -8,4 +8,5 @@
     <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img width="220" height="100" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsrsknvrrpwy44en3ude4rubni&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+      <img width="101" height="57" alt="davemerr" src="https://github.com/user-attachments/assets/eb8ae778-c159-465a-bee1-4456ba0a6d99" />
   </a>
